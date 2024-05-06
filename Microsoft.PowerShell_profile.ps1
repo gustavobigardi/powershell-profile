@@ -1,5 +1,6 @@
 ### PowerShell Profile Refactor
 ### Version 1.03 - Refactored
+### Version 1.04 - Refactored to my user
 
 # Initial GitHub.com connectivity check with 1 second timeout
 $canConnectToGitHub = Test-Connection github.com -Count 1 -Quiet -TimeoutSeconds 1
